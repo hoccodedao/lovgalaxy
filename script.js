@@ -613,8 +613,8 @@ scene.add(planet);
 const ringTexts = [
   'Việt Nam',
   "Nguyễn Vũ Anh Thư",
-  "Nguyễn Vũ Anh Thư",
   "09/07/2009",
+  "Nguyễn Vũ Anh Thư",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
