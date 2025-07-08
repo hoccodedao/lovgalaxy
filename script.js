@@ -612,9 +612,9 @@ scene.add(planet);
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
   'Happy Birthday',
-  "Happy Birthday",
-  "09/07/2009",
   "Nguyễn Vũ Anh Thư",
+  "09/07/2009",
+  "Happy Birthday",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
